@@ -23,6 +23,8 @@
   - **Important**: On the next step, "Configuring the line ending conversions", choose the second option:       "Checkout as-is, commit Unix-style line endings".
   - Choose "next" through any additional steps to complete the Git for Windows install.
   - Open the Windows Command Prompt as **Administrator**
+ 
+### Get the Code ###  
 
 [Fork](https://github.com/linnovate/mean/fork) the `mean` and [fork](http://github.com/lynnaloo/mean-vagrant) repositories on Github.
 
