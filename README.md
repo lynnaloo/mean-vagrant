@@ -26,7 +26,7 @@
  
 ### Get the Code ###  
 
-[Fork](https://github.com/linnovate/mean/fork) the `mean` and [fork](http://github.com/lynnaloo/mean-vagrant) repositories on Github.
+[Fork](https://github.com/linnovate/mean/fork) the `mean` and [fork](http://github.com/lynnaloo/mean-vagrant) the  `mean-vagrant` repositories on Github.
 
 Clone your forks of the `mean` repositories to a directory on your host machine:
 
