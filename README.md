@@ -31,7 +31,7 @@
 Clone your forks of the `mean` repositories to a directory on your host machine:
 
     git clone https://github.com/<username>/mean.git
-    git clone https://github.com/<username>/mean-vagrant.git
+    git clone --recursive https://github.com/<username>/mean-vagrant.git
 
 Change directory to your `mean-vagrant` directory:
     cd mean-vagrant
