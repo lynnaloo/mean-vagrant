@@ -12,7 +12,7 @@
 
 - Download and install [VirtualBox 4.3.8](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3)
   - Do not open VirtualBox or create a virtual machine. This will be handled by Vagrant.
-- Download and install [Vagrant 1.5.0](http://www.vagrantup.com/downloads.html) or better
+- Download and install [Vagrant 1.5.4](http://www.vagrantup.com/download-archive/v1.5.4.html) or better
   - Package managers like apt-get and gem install will install an older version of Vagrant so it is required to use the download page.
 
 #### Windows Users ####
