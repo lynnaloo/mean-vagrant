@@ -7,7 +7,7 @@ VAGRANTFILE_API_VERSION = "2"
 # This is where you cloned the mean repository
 source = "../mean"
 
-Vagrant.require_version ">= 1.5.0"
+Vagrant.require_version ">= 1.6.0"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # All Vagrant configuration is done here. The most common configuration
@@ -16,10 +16,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Every Vagrant virtual environment requires a box to build off of.
   config.vm.box = "hashicorp/precise64"
-
-  # The url from where the 'config.vm.box' box will be fetched if it
-  # doesn't already exist on the user's system.
-  #config.vm.box_url = "https://vagrantcloud.com/hashicorp/precise64/version/2/provider/virtualbox.box"
 
   config.vm.hostname = "mean-server"
 
