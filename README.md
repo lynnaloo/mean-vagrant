@@ -11,7 +11,7 @@
 ###  Install Vagrant ###
 
 * Download and install [VirtualBox 4.3.12](https://www.virtualbox.org/wiki/Downloads)
-* Download and install [Vagrant 1.6.4](http://www.vagrantup.com/downloads.html)
+* Download and install [Vagrant 1.6.4](https://www.vagrantup.com/downloads.html)
 
 #### Windows Users ####
 
